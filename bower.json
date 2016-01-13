@@ -1,0 +1,22 @@
+{
+  "name": "skypeweb",
+  "description": "",
+  "main": "main.js",
+  "authors": [
+    "Long Nguyen <olragon@gmail.com>"
+  ],
+  "license": "MIT",
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.2.0",
+    "normalize-css": "normalize.css#~3.0.3"
+  }
+}

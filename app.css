@@ -1,0 +1,9 @@
+body {
+  overflow: hidden;
+}
+
+#skypeweb {
+  display:inline-block;
+  width:800px;
+  height:600px;
+}
