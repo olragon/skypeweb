@@ -1,4 +1,4 @@
-# ABANDONED! You should use ![Skype for Linux] (https://www.skype.com/en/download-skype/skype-for-linux/)
+# ABANDONED! You should use [Skype for Linux](https://www.skype.com/en/download-skype/skype-for-linux/)
 
 skypeweb use Electron to wrap web.skype.com inside
 
